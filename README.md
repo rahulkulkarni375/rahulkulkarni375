@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkulkarni375&show_icons=true&locale=en&layout=compact" alt="rahulkulkarni375" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkulkarni375&show_icons=true&locale=en" alt="rahulkulkarni375" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkulkarni375&" alt="rahulkulkarni375" /></p>
 
