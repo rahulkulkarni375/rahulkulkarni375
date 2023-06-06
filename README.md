@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm rahul kulkarni</h1>
 <h3 align="center">Learner</h3>
-<img src="https://cdn.dribbble.com/users/348324/screenshots/1784866/media/08994bb357a6c63ca9f5e9c6d18805e7.gif align="right" width="400px" alt="technolgy">
+<img src="https://cdn.dribbble.com/users/348324/screenshots/1784866/media/08994bb357a6c63ca9f5e9c6d18805e7.gif" align="right" width="400px" alt="technolgy">
 
 - 🔭 I’m currently working on **web development**
 
