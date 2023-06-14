@@ -21,9 +21,14 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css3" width="30" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/></p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkulkarni375&show_icons=true&locale=en&layout=compact" alt="rahulkulkarni375" /></p>
- -->
+<!-- 
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkulkarni375&show_icons=true&locale=en&layout=compact" alt="rahulkulkarni375" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkulkarni375&show_icons=true&locale=en" alt="rahulkulkarni375" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkulkarni375&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkulkarni375" /> </p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkulkarni375&" alt="rahulkulkarni375" /></p>
 
