@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm rahul</h1>
 <h3 align="center">Learner</h3>
 <!-- <img src="https://cdn.dribbble.com/users/348324/screenshots/1784866/media/08994bb357a6c63ca9f5e9c6d18805e7.gif" align="right" width="400px" alt="technolgy"> -->
-<img src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400px" alt="naruto" align="right">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="400px" alt="naruto" align="right">
 
 - 🔭 I’m currently working on **web development**
 
